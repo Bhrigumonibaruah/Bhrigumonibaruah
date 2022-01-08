@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhrigu
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning DSA with java 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on building web apps
 - 📫 How to reach me bhrigumonibaruahh@gail.com
 
 <!---
